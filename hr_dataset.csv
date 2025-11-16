@@ -1,0 +1,16 @@
+EmployeeID,Name,Gender,Age,Department,HireDate,TerminationDate,Status,Salary,TenureYears
+101,Ayesha Khan,Female,29,Sales,2021-02-14,,Active,85000,3.1
+102,Ali Raza,Male,34,Marketing,2019-06-20,,Active,92000,4.5
+103,Sara Malik,Female,26,HR,2023-01-12,,Active,65000,1.0
+104,Hamza Ahmed,Male,31,IT,2020-09-05,,Active,110000,3.3
+105,Maria Javed,Female,37,Finance,2018-04-18,,Active,130000,5.7
+106,Ryan Shah,Male,28,Sales,2022-03-11,,Active,78000,2.0
+107,Nimra Ali,Female,30,Marketing,2021-10-02,,Active,90000,2.4
+108,Usman Sheikh,Male,32,HR,2019-07-21,2024-02-18,Terminated,70000,4.6
+109,Hira Fatima,Female,25,IT,2023-05-12,,Active,68000,0.8
+110,Rehan Iqbal,Male,29,Finance,2020-12-01,,Active,120000,3.1
+111,Zohaib Mir,Male,33,Sales,2017-08-15,,Active,95000,6.3
+112,Aleena Farooq,Female,27,Marketing,2022-02-22,,Active,78000,2.0
+113,Kamran Siddiq,Male,40,HR,2016-01-10,,Active,88000,8.0
+114,Sumbul Tariq,Female,34,IT,2019-11-29,2024-06-11,Terminated,105000,4.3
+115,Zain Hassan,Male,36,Finance,2018-07-03,,Active,140000,5.5

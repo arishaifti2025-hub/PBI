@@ -1,0 +1,37 @@
+Date,Month,Product,Category,Sales,Profit,Year
+2024-01-15,Jan,Product A,Furniture,120000,24000,2024
+2024-01-18,Jan,Product B,Office Supplies,85000,12000,2024
+2024-01-22,Jan,Product C,Other,45000,8000,2024
+2024-02-10,Feb,Product A,Furniture,130000,26000,2024
+2024-02-14,Feb,Product B,Office Supplies,90000,15000,2024
+2024-02-20,Feb,Product D,Other,50000,9000,2024
+2024-03-05,Mar,Product A,Furniture,140000,27000,2024
+2024-03-12,Mar,Product C,Other,60000,11000,2024
+2024-03-19,Mar,Product B,Office Supplies,95000,16000,2024
+2024-04-09,Apr,Product A,Furniture,150000,30000,2024
+2024-04-11,Apr,Product D,Other,70000,14000,2024
+2024-04-17,Apr,Product B,Office Supplies,100000,17500,2024
+2024-05-03,May,Product A,Furniture,160000,31000,2024
+2024-05-12,May,Product C,Other,75000,15000,2024
+2024-05-21,May,Product B,Office Supplies,110000,19000,2024
+2024-06-12,Jun,Product A,Furniture,170000,33000,2024
+2024-06-14,Jun,Product B,Office Supplies,115000,20000,2024
+2024-06-18,Jun,Product D,Other,80000,16000,2024
+2024-07-08,Jul,Product A,Furniture,175000,35000,2024
+2024-07-14,Jul,Product B,Office Supplies,120000,21000,2024
+2024-07-21,Jul,Product C,Other,82000,17000,2024
+2024-08-10,Aug,Product A,Furniture,180000,38000,2024
+2024-08-12,Aug,Product D,Other,90000,18000,2024
+2024-08-18,Aug,Product B,Office Supplies,125000,23000,2024
+2024-09-09,Sep,Product A,Furniture,185000,39000,2024
+2024-09-16,Sep,Product C,Other,95000,20000,2024
+2024-09-21,Sep,Product B,Office Supplies,130000,24000,2024
+2024-10-05,Oct,Product A,Furniture,190000,41000,2024
+2024-10-14,Oct,Product B,Office Supplies,140000,26000,2024
+2024-10-22,Oct,Product D,Other,100000,22000,2024
+2024-11-08,Nov,Product A,Furniture,200000,43000,2024
+2024-11-12,Nov,Product C,Other,110000,24000,2024
+2024-11-19,Nov,Product B,Office Supplies,150000,28000,2024
+2024-12-03,Dec,Product A,Furniture,210000,45000,2024
+2024-12-11,Dec,Product B,Office Supplies,160000,30000,2024
+2024-12-19,Dec,Product D,Other,120000,26000,2024
